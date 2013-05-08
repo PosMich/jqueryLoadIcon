@@ -1,8 +1,9 @@
-># Simple jQuery Loadicon
->
->## Usage
->1. create canvas <canvas class="loadicon" width="17" height="17"></canvas>
->2. bind plugin $(".loadicon").loadicon();
+# Simple jQuery Loadicon
+
+## Usage
+1. create canvas 
+>    <canvas class="loadicon" width="17" height="17"></canvas>
+2. bind plugin $(".loadicon").loadicon();
 >   or with options:
 >    size           0.85 ( size of big circle (rotation path) in %)
 >    amount         10
@@ -15,7 +16,7 @@
 >    shadowOffsetX  0
 >    shadowOffsetY  0
 >    shadowBlur     3
->3. start
+3. start
 >   $(".loadicon").loadicon("start");
->4. stop
+4. stop
 >   $(".loadicon").loadicon("stop");
