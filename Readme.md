@@ -4,7 +4,7 @@
 
 1. create canvas
  
-         \<canvas class="loadicon" width="17" height="17"\>\</canvas\>
+         <canvas class="loadicon" width="17" height="17"></canvas>
 
 2. bind plugin 
 
